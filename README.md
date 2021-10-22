@@ -66,7 +66,7 @@ La licencia que hemos escogido para este dataset es *Released Under CC0: Public 
 
 ## 9. CÓDIGO
 
-
+Se adjunta el código en Python de la práctica.
 
 
 ## 10. DATASET
