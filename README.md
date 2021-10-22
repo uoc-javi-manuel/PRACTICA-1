@@ -71,4 +71,13 @@ Se adjunta el código en Python de la práctica.
 
 ## 10. DATASET
 
+El enlace a Zenodo del dataset extraído es:
 
+
+## 11. CONTRIBUCIONES
+
+| Contribuciones              | Firma |
+| --------------------------  | ----------- |
+| Investigación previa        | Title       |
+| Redacción de las respuestas | Text        |
+| Desarrollo del código       | Text        |
