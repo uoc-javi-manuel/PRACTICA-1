@@ -1,5 +1,11 @@
 # PRACTICA-1
 
+En esta prácica crearemos un dataset mediante técnicas de web scraping.
+
+### Integrantes
+
+- Francisco Javier Corrales Estrella
+- Manuel Cubertorer Gumbau
 
 ## 1. CONTEXTO
 
