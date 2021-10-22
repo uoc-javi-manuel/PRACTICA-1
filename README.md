@@ -55,6 +55,7 @@ Se agradece a Red Eléctrica de España por proporcionar los datos de una manera
 ## 7. INSPIRACIÓN
 
 Este dataset tiene una multitud de usos y explotar sus datos puede llevar a conclusiones muy interesantes. Se puede analizar cuáles han sido las tecnologías que más han contribuido a la generación eléctrica en un periodo de tiempo dado, se puede estudiar las posibles variaciones de generación de cada tecnología con el tiempo (día-noche, estaciones, de forma histórica con un espectro de tiempo más amplio, etc.), buscar relaciones entre las emisiones de CO2 y el porcentaje de generación de cada tecnología, entre otros.
+
 Además, todos estos estudios podrían servir a nivel informativo o periodístico, para poder realizar un seguimiento del mercado eléctrico, seguir los objetivos planteados en cuanto a generación de energía eléctrica e incluso predictivos, ya que se podrían emplear para predecir cuáles puede que sean los porcentajes de generación de cada tecnología en un par de años o en un periodo establecido estudiando el histórico de producción.
 
 
