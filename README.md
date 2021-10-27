@@ -1,6 +1,6 @@
-# PRACTICA-1
+# PRÁCTICA-1
 
-En esta prácica crearemos un dataset mediante técnicas de web scraping.
+En esta práctica crearemos un dataset mediante técnicas de web scraping.
 
 ### Integrantes
 
